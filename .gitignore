@@ -1,0 +1,5 @@
+.vscode
+cmake-build-debug
+.autocp
+.clang-format
+.idea
